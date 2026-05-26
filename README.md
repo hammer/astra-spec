@@ -16,7 +16,7 @@
 
 ASTRA is a structured format that captures every consequential choice in a scientific analysis — its inputs, outputs, decisions, and the evidence behind them — so the result is **reproducible**, **auditable**, and **composable**. An agent, a workflow runner, a notebook, or a human reads the spec and produces the results; ASTRA itself stays out of execution.
 
-For the longer argument that motivates the project — per-result trust in the agentic-AI era and why an open substrate matters — see the [Lightcone Research position paper](https://github.com/LightconeResearch/astra-paper).
+For the longer argument that motivates the project — per-result trust in the agentic-AI era and why an open substrate matters — see the [Lightcone Research position paper](https://lightconeresearch.org/papers/Lanusse_Parker_2026.pdf).
 
 ## Quick example
 
@@ -118,7 +118,7 @@ Both are permissive; commercial and academic use are unrestricted. Schema reuse 
 
 If you use ASTRA, please cite the repository — the easiest way is the **"Cite this repository"** button on this page (it generates APA and BibTeX from [`CITATION.cff`](CITATION.cff)). Include the schema version you targeted; it is recorded at the top of each LinkML source file and in every generated artefact.
 
-For the broader context, the [Lightcone Research position paper](https://github.com/LightconeResearch/astra-paper) is a separate citation, not a replacement.
+For the broader context, the [Lightcone Research position paper](https://lightconeresearch.org/papers/Lanusse_Parker_2026.pdf) is a separate citation, not a replacement.
 
 ## Credits
 
